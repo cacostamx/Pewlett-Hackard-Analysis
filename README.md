@@ -8,7 +8,7 @@ The purpose of this new analysis is to determine the number of retiring employee
 
 PH needed to create a database with the tables to hold the data from the csv files. First, we created an Entity Relationship Diagrams (ERD) to have a visual representation of the tables' information and the relationship among them.
 
-    ![ERD_schema](/Resources/schema.png)
+   ![ERD_schema](/Resources/schema.png)
 
 ## Resources
 
@@ -72,7 +72,7 @@ The main findings are the following:
 
 - Looking at the number mentorship eligibility by department and comparing to hose retiring by department, the difference is huge; around 46x retiring vs mentoring. Above 60% is concentrated in Development, Production and Sales.
 
-    |**Mentorship eligibility by department**          |**Mentorship eligibility by department**          |
+    |**Mentorship eligibility by department**          |**Retirement by department**                      |
     |:------------------------------------------------:|:------------------------------------------------:|
     |![mentorship by dept](/Resources/ment_by_dept.png)|![retirees by dept](/Resources/retir_by_dept.png) |
 
