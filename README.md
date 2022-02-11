@@ -13,12 +13,12 @@ PH needed to create a database with the tables to hold the data from the csv fil
 ## Resources
 
 - Data source: The analysis was performed on six csv files that PH RH department provided, and stored in the "Data" folder.
-    -"titles.csv"
-    -"employees.csv"
-    -"dept_emp.csv"
-    -"salaries.csv"
-    -"dept_manager.csv"
-    -"departments.csv"
+   - "titles.csv"
+   - "employees.csv"
+   - "dept_emp.csv"
+   - "salaries.csv"
+   - "dept_manager.csv"
+   - "departments.csv"
 
 - Software use to perform the analysis: PostgrSQL v13.5 and Pgadmin4 v6.1 for Windows
 
@@ -68,7 +68,7 @@ The main findings are the following:
     |Manager           |           1|           0|           0|           1|
     |**Total**         |  **16,981**|  **18,328**|	**18,612**|	 **18,537**|
 
-    As shown, Senior positions are have the most number of employees retiring each year.
+    As shown, Senior positions have the most number of employees retiring each year.
 
 - Looking at the number mentorship eligibility by department and comparing to hose retiring by department, the difference is huge; around 46x retiring vs mentoring. Above 60% is concentrated in Development, Production and Sales.
 
